@@ -1468,6 +1468,12 @@ font:
       - "\U000F1A1B"#gas
       - "\U000F1C3B"#battery charging/usb powered
       - "\U000F1C6F"#info
+      - "\U000F028F"#kitchen
+      - "\U000F156D"Livingroom
+      - "\U000F12BE"Downstairs
+      - "\U000F0FD1"Bedroom
+      
+      
 
 
   - file: "https://github.com/BigBobbas/ESP32-S3-Box3-Custom-ESPHome/raw/main/fonts/materialdesignicons-webfont.ttf"
